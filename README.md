@@ -1,5 +1,9 @@
 # makefun-19nov-news-image
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/rawacana2024-del/makefun-19nov-news-image/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/rawacana2024-del/makefun-19nov-news-image/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 Entry for the make.fun bounty **"Sum up 19 November's world news in one image"** ($250).
 
 `main.py` renders a newspaper front page — **"THE WORLD — Thursday,
@@ -33,12 +37,15 @@ deterministic: two runs produce byte-identical output (sha256
 - [x] No network access; no bundled fonts; only Pillow + stdlib
 - [x] Visual check of the render: no overlapping or clipped text, all 11
       map dots separated and readable (see `entry-preview.png`)
-- [ ] Repo created on GitHub (public, one commit) — waiting on the user's
-      GitHub login
-- [ ] Entry submitted via make.fun — needs the user's explicit approval
+- [x] Repo created on GitHub (public) — https://github.com/rawacana2024-del/makefun-19nov-news-image
+- [x] Entry submitted via make.fun — 20 Nov 2026
 
 ## Notes
 
 - All 11 stories were verified against public reporting on 19 November 2026.
 - Built with an AI agent (Muse) for Irpan. This repo is the entry itself;
   nothing here was submitted anywhere by the script.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
